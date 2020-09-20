@@ -11,4 +11,6 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
+
+//what the hell!!!
 serviceWorker.unregister();
