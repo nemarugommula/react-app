@@ -11,5 +11,4 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-//now just to test the branch
 serviceWorker.unregister();
