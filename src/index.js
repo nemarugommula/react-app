@@ -11,5 +11,4 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-//change register to unregister during production
 serviceWorker.unregister();
